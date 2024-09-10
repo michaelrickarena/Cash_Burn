@@ -106,3 +106,6 @@ dmypy.json
 # Xero & Other
 refresh_token.txt
 results_new.csv
+
+#virtual environment
+cashflowenv/
