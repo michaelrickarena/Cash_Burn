@@ -31,7 +31,7 @@ This script interacts with the Xero API to extract invoice and payment data, as 
    ```
 3. Run the script to authenticate and retrieve data:
    ```bash
-   python script_name.py
+   python main.py
    ```
 
 ## License
